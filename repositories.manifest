@@ -1,0 +1,10 @@
+: 1
+summary: libart-json project repository
+
+:
+role: prerequisite
+location: https://code.helloryan.se/art/libart-validation.git##HEAD
+
+:
+role: prerequisite
+location: https://code.helloryan.se/art/libart-unicode.git##HEAD
