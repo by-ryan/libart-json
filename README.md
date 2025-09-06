@@ -2,7 +2,7 @@
 
 ![Build badge](https://code.helloryan.se/art/libart-json/actions/workflows/on-push.yaml/badge.svg)
 
-libart-json implemtents JSON serialization/deserialization and parsing for C++.
+libart-json implements JSON serialization/deserialization and parsing for C++.
 
 ## Sponsorship
 
